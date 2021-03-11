@@ -1,0 +1,41 @@
+.awsome-header{
+    font-size: 48px;
+    color: #2E7AD3;
+    text-align: center;
+    margin: 45px 0;
+	font-family: sans-serif;
+
+}
+.awsome-header2{
+    font-size: 32px;
+    color: #104c90;
+    margin-top: 0;
+
+}
+.awsome-para{
+    font-size: 16px;
+}
+.main{
+	font-family: sans-serif;
+    width: 500px;
+    padding: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f1f1f1;
+
+}
+img{
+    margin-bottom: 25px; 
+	width: 100%;
+}
+p{
+	margin-top: 0;
+}
+
+a:link, a:visited{
+	color: #FF8000;
+}
+
+a:hover, a:focus{
+	color: aqua;
+}
